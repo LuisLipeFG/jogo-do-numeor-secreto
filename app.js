@@ -1,6 +1,6 @@
 
             let listaDeNumerosSorteados = [];
-            let possibilidadesDeNumeros = 10; //essa linha é onde mudamos a quantidade de numeros que serão sorteados
+            let possibilidadesDeNumeros = 100; //essa linha é onde mudamos a quantidade de numeros que serão sorteados
             let numeroSecreto = gerarNumeroAleatorio(); // essa variável atribui uma função a ela mesma
             let tentativas = 1;
 
